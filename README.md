@@ -32,4 +32,5 @@ and copy the command and run on terminal
 AFTER THIS OPEN JUPYTER AND SELECT PYTHON ON NEW ENVIRONMENT
 AND WRITE THIS PROGRAM
 https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
-https://towardsdatascience.com/transfer-learning-using-pytorch-4c3475f4495(FOR UNDERSTANDING TUTORIAL ON MEDIUM)
+
+https://towardsdatascience.com/transfer-learning-using-pytorch-4c3475f4495       (FOR UNDERSTANDING TUTORIAL ON MEDIUM)

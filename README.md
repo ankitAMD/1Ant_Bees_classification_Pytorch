@@ -52,3 +52,15 @@ AND WRITE THIS PROGRAM
 https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
 
 https://towardsdatascience.com/transfer-learning-using-pytorch-4c3475f4495       (FOR UNDERSTANDING TUTORIAL ON MEDIUM)
+
+
+
+
+
+important webpages:
+
+https://cs231n.github.io/transfer-learning/
+
+https://mc.ai/applying-transfer-learning-on-resnet-using-pytorch/
+
+https://pytorch.org/docs/0.3.1/

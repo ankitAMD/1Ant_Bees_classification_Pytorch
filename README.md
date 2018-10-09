@@ -38,6 +38,7 @@ Installed kernelspec abc in /home/ankit/.local/share/jupyter/kernels/abc
 
 and run command in terminal: jupyter notebook ( : if installed)
 
+
 and install also torch  visiting on pytorch.org 
 
 and select your desired system config
@@ -64,3 +65,7 @@ https://cs231n.github.io/transfer-learning/
 https://mc.ai/applying-transfer-learning-on-resnet-using-pytorch/
 
 https://pytorch.org/docs/0.3.1/
+
+https://en.wikipedia.org/wiki/PyTorch
+
+https://www.quora.com/topic/PyTorch

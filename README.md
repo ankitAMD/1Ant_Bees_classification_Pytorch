@@ -20,7 +20,7 @@ check your environmet by asterik appoint like that
 
 (abc) ankit@ankitG-PC:~$ conda env list
 
-# conda environments:
+# Conda Environments:
 
 #
 
@@ -58,7 +58,7 @@ https://towardsdatascience.com/transfer-learning-using-pytorch-4c3475f4495      
 
 
 
-## important webpages:
+## Important Webpages:
 
 https://cs231n.github.io/transfer-learning/
 

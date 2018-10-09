@@ -57,7 +57,7 @@ https://towardsdatascience.com/transfer-learning-using-pytorch-4c3475f4495      
 
 
 
-important webpages:
+## important webpages:
 
 https://cs231n.github.io/transfer-learning/
 

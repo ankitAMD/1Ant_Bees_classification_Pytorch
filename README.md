@@ -53,14 +53,11 @@ and run command in terminal:
                             jupyter notebook     ( : if installed )
 
 
-and also install  torch  visiting on (&#x1F34E;) pytorch.org with selecting your desired system config
+and also install  torch  visiting on (&#x1F34E;) pytorch.org  (&#x1F34E;) with selecting your desired system config
 
-and select if you graphic then add cuda otherwise select none
+(&#x1F34F;) Select if you have Graphic then add cuda otherwise Select (&#x1F534;) None  (&#x1F534;) and copy the command and run on terminal
 
-and copy the command and run on terminal
-
-AFTER THIS OPEN JUPYTER AND SELECT PYTHON ON NEW ENVIRONMENT
-AND WRITE THIS PROGRAM
+After This Open Jupyter And Select Python On New Environment And Write Your Program
 
 
 https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html

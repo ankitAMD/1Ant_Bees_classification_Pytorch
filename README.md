@@ -9,27 +9,34 @@ First open the terminal and then create a new environment
    
 then activate the new environment -abc
 
-     (&#x1F34E;) " source activate abc"
+   (&#x1F34E;)
+     " source activate abc"
 
  and then type 
 
-      (&#x1F34E;) "conda env list"
+   (&#x1F34E;) 
+      "conda env list"
 
 check your current environmet that is  asterik is shown before your environment like that
 
-     (&#x1F34E;) (abc) ankit@ankitG-PC:~$ conda env list
+   (&#x1F34E;) 
+     (abc) ankit@ankitG-PC:~$ conda env list
 
    ### Conda Environments:
 
-      (&#x1F34E;) abc                   *  /home/ankit/anaconda3/envs/abc
+   (&#x1F34E;) 
+       abc                   *  /home/ankit/anaconda3/envs/abc
 
-      (&#x1F34E;) ankit                    /home/ankit/anaconda3/envs/ankit
+   (&#x1F34E;) 
+       ankit                    /home/ankit/anaconda3/envs/ankit
 
-      (&#x1F34E;) root                     /home/ankit/anaconda3
+   (&#x1F34E;) 
+      root                     /home/ankit/anaconda3
 
 and if want to deactivate the environment :
 
-     (&#x1F34E;) " source deactivate abc"
+   (&#x1F34E;) 
+     " source deactivate abc"
 
 fig1
  ![title](https://github.com/ankitAMD/1Ant_Bees_classification_Pytorch/blob/master/environment1.png)
@@ -45,13 +52,15 @@ and
 
 ##  Connect your Specific environment with jupyter kernel and click enter like that:
 
-     (&#x1F34E;) (abc)ankit@ankitG-PC:~$ python -m ipykernel install --user --name abc --display-name "Python (abc)"
+    (&#x1F34E;) 
+      (abc)ankit@ankitG-PC:~$ python -m ipykernel install --user --name abc --display-name "Python (abc)"
 
 Installed kernelspec abc in /home/ankit/.local/share/jupyter/kernels/abc
 
 and run command in terminal:
                             
-                           (&#x1F34E;)jupyter notebook     ( : if installed )
+   (&#x1F34E;)
+        jupyter notebook     ( : if installed )
 
 
 and also install  torch  visiting on (&#x1F34E;) pytorch.org  (&#x1F34E;) with selecting your desired system config

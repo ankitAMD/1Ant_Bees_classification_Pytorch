@@ -20,11 +20,11 @@ check your current environmet that is  asterik is shown before your environment 
 
    ### Conda Environments:
 
-abc                   *  /home/ankit/anaconda3/envs/abc
+     abc                   *  /home/ankit/anaconda3/envs/abc
 
-ankit                    /home/ankit/anaconda3/envs/ankit
+     ankit                    /home/ankit/anaconda3/envs/ankit
 
-root                     /home/ankit/anaconda3
+     root                     /home/ankit/anaconda3
 
 and if want to deactivate the environment :
 

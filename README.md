@@ -4,38 +4,30 @@
 
 First open the terminal and then create a new environment
 
-   (&#x1F34E;) 
-     "conda create --name abc python=3"
+       "conda create --name abc python=3"
    
 then activate the new environment -abc
 
-   (&#x1F34E;)
      " source activate abc"
 
  and then type 
-
-   (&#x1F34E;) 
+ 
       "conda env list"
 
 check your current environmet that is  asterik is shown before your environment like that
 
-   (&#x1F34E;) 
      (abc) ankit@ankitG-PC:~$ conda env list
 
    ### Conda Environments:
-
-   (&#x1F34E;) 
-       abc                   *  /home/ankit/anaconda3/envs/abc
-
-   (&#x1F34E;) 
-       ankit                    /home/ankit/anaconda3/envs/ankit
-
-   (&#x1F34E;) 
+ 
+      abc                   *  /home/ankit/anaconda3/envs/abc
+ 
+      ankit                    /home/ankit/anaconda3/envs/ankit
+ 
       root                     /home/ankit/anaconda3
 
 and if want to deactivate the environment :
 
-   (&#x1F34E;) 
      " source deactivate abc"
 
 fig1
@@ -51,15 +43,13 @@ fig3
 and 
 
 ##  Connect your Specific environment with jupyter kernel and click enter like that:
-
-    (&#x1F34E;) 
+ 
       (abc)ankit@ankitG-PC:~$ python -m ipykernel install --user --name abc --display-name "Python (abc)"
 
 Installed kernelspec abc in /home/ankit/.local/share/jupyter/kernels/abc
 
 and run command in terminal:
                             
-   (&#x1F34E;)
         jupyter notebook     ( : if installed )
 
 

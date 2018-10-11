@@ -1,7 +1,6 @@
 # Ant_Bees_classification_Pytorch
 
-first introduction pytorch project on classification of ant and bees
-
+## create an environment
 First open the terminal
 
 then create a new environment

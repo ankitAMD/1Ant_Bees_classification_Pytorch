@@ -53,9 +53,7 @@ and run command in terminal:
                             jupyter notebook     ( : if installed )
 
 
-and also install  torch  visiting on 
-## pytorch.org
-with selecting your desired system config
+and also install  torch  visiting on (&#x1F34E;) pytorch.org with selecting your desired system config
 
 and select if you graphic then add cuda otherwise select none
 

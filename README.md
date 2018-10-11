@@ -29,6 +29,8 @@ and if want to deactivate the environment :
 
 ---------------->>>>>    " source deactivate abc"
 
+ ![title] https://github.com/ankitAMD/1Ant_Bees_classification_Pytorch/blob/master/environment1.png
+
 
 and 
 ##  Connect your Specific environment with jupyter kernel and click enter like that:

@@ -4,19 +4,19 @@
 
 First open the terminal and then create a new environment
 
--------------->>>>>      "conda create --name abc python=3"
+    "conda create --name abc python=3"
    
 then activate the new environment -abc
 
--------------->>>>>      " source activate abc"
+    " source activate abc"
 
  and then type 
 
-------------->>>>>       "conda env list"
+     "conda env list"
 
 check your current environmet that is  asterik is shown before your environment like that
 
-(abc) ankit@ankitG-PC:~$ conda env list
+    (abc) ankit@ankitG-PC:~$ conda env list
 
    ### Conda Environments:
 
@@ -28,7 +28,7 @@ check your current environmet that is  asterik is shown before your environment 
 
 and if want to deactivate the environment :
 
----------------->>>>>    " source deactivate abc"
+    " source deactivate abc"
 
 fig1
  ![title](https://github.com/ankitAMD/1Ant_Bees_classification_Pytorch/blob/master/environment1.png)
@@ -41,18 +41,19 @@ fig3
 
 
 and 
+
 ##  Connect your Specific environment with jupyter kernel and click enter like that:
 
-(abc) ankit@ankitG-PC:~$ python -m ipykernel install --user --name abc --display-name "Python (abc)"
+    (abc) ankit@ankitG-PC:~$ python -m ipykernel install --user --name abc --display-name "Python (abc)"
 
 Installed kernelspec abc in /home/ankit/.local/share/jupyter/kernels/abc
 
-and run command in terminal: jupyter notebook ( : if installed)
+and run command in terminal:
+                            
+                            jupyter notebook     ( : if installed )
 
 
-and install also torch  visiting on pytorch.org 
-
-and select your desired system config
+and also install  torch  visiting on - pytorch.org with selecting your desired system config
 
 and select if you graphic then add cuda otherwise select none
 

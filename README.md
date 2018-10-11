@@ -4,7 +4,7 @@
 
 First open the terminal and then create a new environment
 
--------------->>>>> <br  >"$ conda create --name abc python=3"
+-------------->>>>> </>"$ conda create --name abc python=3"
 
 then activate the new environment -abc
 

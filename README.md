@@ -31,12 +31,15 @@ and if want to deactivate the environment :
      " source deactivate abc"
 
 fig1
+
  ![title](https://github.com/ankitAMD/1Ant_Bees_classification_Pytorch/blob/master/environment1.png)
 
 fig2 
+
  ![title](https://github.com/ankitAMD/1Ant_Bees_classification_Pytorch/blob/master/environment2.png)
 
 fig3
+
  ![title](https://github.com/ankitAMD/1Ant_Bees_classification_Pytorch/blob/master/environment3.png)
 
 

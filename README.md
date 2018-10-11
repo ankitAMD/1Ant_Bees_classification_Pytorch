@@ -89,3 +89,6 @@ https://help.github.com/articles/basic-writing-and-formatting-syntax/AC
 https://hackernoon.com/12-cool-things-you-can-do-with-github-f3e0424cf2f0
 
 https://guides.github.com/features/mastering-markdown/
+
+https://stackoverflow.com/questions/23904274/is-there-a-way-to-get-colored-text-in-github-flavored-markdown
+

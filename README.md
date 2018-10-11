@@ -53,7 +53,9 @@ and run command in terminal:
                             jupyter notebook     ( : if installed )
 
 
-and also install  torch  visiting on - pytorch.org with selecting your desired system config
+and also install  torch  visiting on 
+## pytorch.org
+with selecting your desired system config
 
 and select if you graphic then add cuda otherwise select none
 
@@ -80,3 +82,12 @@ https://pytorch.org/docs/0.3.1/
 https://en.wikipedia.org/wiki/PyTorch
 
 https://www.quora.com/topic/PyTorch
+
+
+## basic markdown and bulleted sites 
+
+https://help.github.com/articles/basic-writing-and-formatting-syntax/AC
+
+https://hackernoon.com/12-cool-things-you-can-do-with-github-f3e0424cf2f0
+
+https://guides.github.com/features/mastering-markdown/

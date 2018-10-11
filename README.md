@@ -1,9 +1,10 @@
 # Ant_Bees_classification_Pytorch
 
-## create an environment
+ ## create an environment
+
 First open the terminal and then create a new environment
 
--------------->>>>>      "$ conda create --name abc python=3"
+-------------->>>>> <br  />"$ conda create --name abc python=3"
 
 then activate the new environment -abc
 

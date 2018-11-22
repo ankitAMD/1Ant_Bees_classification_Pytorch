@@ -46,6 +46,8 @@ fig3
 and 
 
 ##  Connect your Specific environment with jupyter kernel and click enter like that:
+
+https://ipython.readthedocs.io/en/stable/install/kernel_install.html
  
       (abc)ankit@ankitG-PC:~$ python -m ipykernel install --user --name abc --display-name "Python (abc)"
 

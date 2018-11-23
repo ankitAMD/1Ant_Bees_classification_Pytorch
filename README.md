@@ -85,6 +85,22 @@ https://www.quora.com/topic/PyTorch
 
 https://github.com/llSourcell/Pytorch_Coding_Challenge_LIVE/blob/master/invasive%20species.ipynb
 
+https://www.techopedia.com/definition/28033/data-augmentation
+
+https://machinelearningmastery.com/transfer-learning-for-deep-learning/
+
+https://github.com/GnaneshKunal/dogs-vs-cats-classifier
+
+https://blog.datawow.io/the-power-of-transfer-learning-23c5dffc002e
+
+https://towardsdatascience.com/transfer-learning-from-pre-trained-models-f2393f124751
+
+https://towardsdatascience.com/transfer-learning-part-1-4c2c7839a4b9
+
+https://towardsdatascience.com/transfer-learning-using-pytorch-4c3475f4495
+
+https://towardsdatascience.com/train-validation-and-test-sets-72cb40cba9e7
+
 ## basic markdown and bulleted sites 
 
 https://help.github.com/articles/basic-writing-and-formatting-syntax/AC

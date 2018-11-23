@@ -83,6 +83,7 @@ https://en.wikipedia.org/wiki/PyTorch
 
 https://www.quora.com/topic/PyTorch
 
+https://github.com/llSourcell/Pytorch_Coding_Challenge_LIVE/blob/master/invasive%20species.ipynb
 
 ## basic markdown and bulleted sites 
 

@@ -18,7 +18,7 @@ check your current environmet that is  asterik is shown before your environment 
 
      (abc) ankit@ankitG-PC:~$ conda env list
 
-   ### Conda Environments:
+    #### Conda Environments:
  
       abc                   *  /home/ankit/anaconda3/envs/abc
  

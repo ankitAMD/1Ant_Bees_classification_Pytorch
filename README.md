@@ -14,11 +14,11 @@ then activate the new environment -abc
  
       "conda env list"
 
-check your current environmet that is  asterik is shown before your environment like that
+ check your current environmet that is  asterik is shown before your environment like that ...
 
      (abc) ankit@ankitG-PC:~$ conda env list
 
-    #### Conda Environments:
+   #### Conda Environments:
  
       abc                   *  /home/ankit/anaconda3/envs/abc
  
@@ -71,7 +71,7 @@ https://towardsdatascience.com/transfer-learning-using-pytorch-4c3475f4495      
 
 
 
-## Important Webpages:
+## Important Webpages......
 
 https://cs231n.github.io/transfer-learning/
 
@@ -101,7 +101,7 @@ https://towardsdatascience.com/transfer-learning-using-pytorch-4c3475f4495
 
 https://towardsdatascience.com/train-validation-and-test-sets-72cb40cba9e7
 
-## basic markdown and bulleted sites 
+## Basic Markdown and Bulleted Websites ...
 
 https://help.github.com/articles/basic-writing-and-formatting-syntax/AC
 

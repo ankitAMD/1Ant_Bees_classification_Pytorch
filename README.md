@@ -88,13 +88,15 @@ and also install  torch  visiting on (&#x1F34E;) pytorch.org  (&#x1F34E;) with s
 (&#x1F34F;) Select if you have Graphic then add cuda otherwise Select (&#x1F534;) None  (&#x1F534;) and copy the command and run on terminal.
 
 
-After This Open Jupyter And Select Python On New Environment And Write Your Program.
+After this Open Jupyter And Select Python On New Environment And Write Your Program.
 
 
 https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
 
 
-https://towardsdatascience.com/transfer-learning-using-pytorch-4c3475f4495       (FOR UNDERSTANDING TUTORIAL ON MEDIUM)
+https://towardsdatascience.com/transfer-learning-using-pytorch-4c3475f4495       
+
+(For more understanding tutorial read this on Medium article.)
 
 
 

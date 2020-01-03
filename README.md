@@ -9,7 +9,7 @@ First open the terminal and then create a new environment
        "conda create --name abc python=3.6"
 
 
-then activate the new environment -abc
+##### Activate the New Environment -abc
 
 
      " source activate abc"
@@ -37,7 +37,7 @@ then activate the new environment -abc
       root                     /home/ankit/anaconda3
 
 
-and if want to deactivate the environment :
+##### Deactivate the Environment :
 
 
      " source deactivate abc"
